@@ -1,0 +1,1 @@
+Dataset was downloaded from this link: https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset?resource=download
